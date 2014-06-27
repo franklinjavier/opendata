@@ -1,4 +1,4 @@
-opendata
+opendata - Repositório brasileiro de dados abertos
 ========
 
-Esse repositório tem o intuíto de centralizar todo tipo de dados que contempla todo o território nacional.
+Esse repositório tem o intuíto de centralizar todo tipo de dados abertos (open data).
